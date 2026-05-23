@@ -1,0 +1,119 @@
+aid: fbn
+url: https://raw.githubusercontent.com/api-evangelist/fbn/refs/heads/main/apis.yml
+name: Farmers Business Network
+kind: company
+description: >-
+  Farmers Business Network (FBN) is a direct-to-farmer ag platform combining a
+  member network, e-commerce for crop inputs (seed, chemistry, animal health),
+  agronomy and precision analytics, financing and crop insurance, and a
+  sustainability / Scope-3 program (Gradable). FBN Analytics ingests precision
+  data from 60+ monitor types and integrates with John Deere Operations Center
+  and CNH AFS Connect to pull machine, planting, application, and harvest data
+  into the FBN platform. FBN is a Field to Market Qualified Data Management
+  Partner via the Fieldprint API. FBN does not publish a public developer
+  portal; partner integrations are arranged directly.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Agriculture
+  - AgTech
+  - Marketplace
+  - Precision Ag
+  - Farm Finance
+  - Sustainability
+  - Scope 3
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis:
+  - aid: fbn:member-platform
+    name: FBN Member Platform
+    description: >-
+      The fbn.com member application - account, farm, and field management plus
+      access to agronomy insights, pricing transparency, and marketplace
+      ordering. Member-only product, not a public API.
+    humanURL: https://www.fbn.com/
+    baseURL: https://www.fbn.com/
+    tags:
+      - Member
+      - Farm Management
+    properties:
+      - type: Information
+        url: https://www.fbn.com/
+  - aid: fbn:analytics
+    name: FBN Analytics
+    description: >-
+      Precision-agronomy product that ingests planting, application, and
+      harvest data from 60+ precision monitor types, normalizes it, and
+      benchmarks performance across the FBN network. Surface is the FBN member
+      app; underlying integrations include John Deere Operations Center and
+      CNH AFS Connect.
+    humanURL: https://www.fbn.com/analytics/data-storage-integration
+    baseURL: https://www.fbn.com/analytics/data-storage-integration
+    tags:
+      - Precision Ag
+      - Data Integration
+      - Analytics
+    properties:
+      - type: Information
+        url: https://www.fbn.com/analytics/data-storage-integration
+  - aid: fbn:marketplace
+    name: FBN Direct Marketplace
+    description: >-
+      Direct-to-farmer e-commerce marketplace for crop inputs - seed, crop
+      protection, adjuvants, and animal health - with transparent pricing and
+      direct-to-farm delivery. Member-only ordering surface.
+    humanURL: https://www.fbn.com/direct
+    baseURL: https://www.fbn.com/direct
+    tags:
+      - Marketplace
+      - Inputs
+      - E-Commerce
+    properties:
+      - type: Information
+        url: https://www.fbn.com/direct
+  - aid: fbn:finance
+    name: FBN Finance
+    description: >-
+      Farm operating loans, equipment financing, and crop insurance issued
+      through FBN's lending and insurance affiliates.
+    humanURL: https://www.fbn.com/finance
+    baseURL: https://www.fbn.com/finance
+    tags:
+      - Finance
+      - Lending
+      - Insurance
+    properties:
+      - type: Information
+        url: https://www.fbn.com/finance
+  - aid: fbn:gradable
+    name: Gradable (Sustainability / Scope 3)
+    description: >-
+      FBN's sustainability and Scope-3 program. Captures field-level practice
+      data from growers, computes outcomes, and sells the verified sustainable
+      bushels and emissions data to grain buyers and consumer-goods companies.
+    humanURL: https://www.gradable.com/
+    baseURL: https://www.gradable.com/
+    tags:
+      - Sustainability
+      - Scope 3
+      - Grain
+    properties:
+      - type: Information
+        url: https://www.gradable.com/
+common:
+  - type: Website
+    url: https://www.fbn.com/
+  - type: FAQ
+    url: https://www.fbn.com/community/faq
+  - type: News
+    url: https://www.fbn.com/community
+  - type: Contact
+    url: https://www.fbn.com/contact
+integrations:
+  - name: John Deere Operations Center
+  - name: CNH AFS Connect
+  - name: Field to Market Fieldprint Platform
+  - name: SnapFulfil
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
