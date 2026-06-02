@@ -1,0 +1,8 @@
+---
+title: 11. Agronomy Update For The Week Of June 3, 2019
+url: https://fbnfarmers.libsyn.com/11-agronomy-update-for-the-week-of-june-3-2019
+date: '2019-06-07'
+author: Farmer's Business Network, Inc. (FBN)
+feed_url: https://fbnfarmers.libsyn.com/rss
+---
+A podcast for farmers about how you can gain more choice, freedom and transparency in your farming business. This week, FBN's Head of Agronomy Dr. Darin Lickfeldt is joined by FBN's Senior Staff Agronomist Doyle Oerter. Together, they address nitrogen fertility and what growers should know about sidedress and lay-by applications of nitrogen on corn. Learn more about: What % of this season's nitrogen fertilizer should go out in your sidedress application How to determine the best rate of nitrogen in the sidedress application in extremely wet conditions Which placement options for the sidedress application make the most sense for your crop You can text "agronomy" to 313131 and fill out a short form to ask the FBN Agronomy Team a question that they'll answer in an upcoming episode. Want more farming trends and insights like this podcast? Tune into an upcoming webinar: www.fbn.com/events Always remember to read and follow label use instructions. It is the listener's responsibility to confirm prior to purchase and use that a product is labeled for your specific purposes, including, but not limited to, your target crop or pest, and its compatibility with other products in a tank mix. Farmers Business Network, FBN and Farmers First are registered trademarks of Farmer's Business Network, Inc. All other trademarks are the property of their respective owners. www.FBN.com

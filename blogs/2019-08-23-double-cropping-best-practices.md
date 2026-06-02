@@ -1,0 +1,8 @@
+---
+title: Double Cropping Best Practices
+url: https://fbnfarmers.libsyn.com/double-cropping-best-practices
+date: '2019-08-23'
+author: Farmer's Business Network, Inc. (FBN)
+feed_url: https://fbnfarmers.libsyn.com/rss
+---
+With soybeans in the high $8s, and wheat in the high $4s price range, is there a way to spread some of your risk? How about a way to not be tied to a single commodity crop with all the unknowns that tariffs might bring? LeRoy & Darin cover double cropping systems (with a focus on winter wheat and soybeans) in this episode. double cropping can control soil erosion and keep nitrates from leaching out double cropping can helps spread out your fixed costs across 2 crops double cropping can increase return on investment double cropping can increase overall production for food and feed stock LeRoy talks about the two primary systems of double cropping and provides best practices to help you steer clear of some common hurdles. If you happen to be in a more arid region, he will discuss a few different crops that you might turn to for your double cropping plan. Listen to this episode to learn how to get the most out of your double cropping system! Always remember to read and follow label use instructions. It is the listener's responsibility to confirm prior to purchase and use that a product is labeled for your specific purposes, including, but not limited to, your target crop or pest, and its compatibility with other products in a tank mix. Farmers Business Network, FBN and Farmers First are registered trademarks of Farmer's Business Network, Inc. All other trademarks are the property of their respective owners. www.FBN.com
