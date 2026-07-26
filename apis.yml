@@ -12,7 +12,19 @@ description: >-
   into the FBN platform. FBN is a Field to Market Qualified Data Management
   Partner via the Fieldprint API. FBN does not publish a public developer
   portal; partner integrations are arranged directly.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: free
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Free
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fbn.png
 tags:
   - Agriculture
   - AgTech
@@ -22,7 +34,7 @@ tags:
   - Sustainability
   - Scope 3
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 apis:
   - aid: fbn:member-platform
@@ -85,21 +97,6 @@ apis:
     properties:
       - type: Information
         url: https://www.fbn.com/finance
-  - aid: fbn:gradable
-    name: Gradable (Sustainability / Scope 3)
-    description: >-
-      FBN's sustainability and Scope-3 program. Captures field-level practice
-      data from growers, computes outcomes, and sells the verified sustainable
-      bushels and emissions data to grain buyers and consumer-goods companies.
-    humanURL: https://www.gradable.com/
-    baseURL: https://www.gradable.com/
-    tags:
-      - Sustainability
-      - Scope 3
-      - Grain
-    properties:
-      - type: Information
-        url: https://www.gradable.com/
 common:
   - type: DomainSecurity
     url: security/fbn-domain-security.yml
@@ -111,6 +108,8 @@ common:
     url: https://www.fbn.com/community
   - type: Contact
     url: https://www.fbn.com/contact
+  - type: Sustainability
+    url: https://www.gradable.com/
 integrations:
   - name: John Deere Operations Center
   - name: CNH AFS Connect
