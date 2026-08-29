@@ -12,6 +12,17 @@ description: >-
   into the FBN platform. FBN is a Field to Market Qualified Data Management
   Partner via the Fieldprint API. FBN does not publish a public developer
   portal; partner integrations are arranged directly.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
